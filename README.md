@@ -6,6 +6,9 @@
 - 😄 Pronouns: matico
 - ⚡ Fun fact: I am self-taught and love technology.
 
+- 💬 Ask me about Java, Python, SQL, JavaScript, React Native, MySQL
+- 📬 How to reach me msgiorgini77@gmail.com
+
 <!---
 msgiorgini77/msgiorgini77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
